@@ -18,6 +18,9 @@
 
 <!-- Skills -->
 <h3>Skills:</h3>
+<div>
+    <a src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
 
 <!-- Tools -->
 <h3>Tools:</h3>
