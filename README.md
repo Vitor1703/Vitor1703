@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Heyy,+My+Name+is+Vitor+Hugo;I'm+20+years+old;I'm+a+Software+Engineering+student)](https://git.io/typing-svg)
 
 <!-- Divider -->
-***
+##
 
 <!-- About me -->
 <h3><strong>About me:</h3>
@@ -16,14 +16,29 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor1703&layout=compact&theme=gotham">
 </div>
 
+<!-- Divider -->
+##
+
 <!-- Skills -->
 <h3>Skills:</h3>
 <div>
-    <a src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+    <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
+    <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
+    <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
+
+<!-- Divider -->
+##
 
 <!-- Tools -->
 <h3>Tools:</h3>
+
+<!-- Divider -->
+##
 
 <!-- Contact -->
 <h3>Contact</h3>
