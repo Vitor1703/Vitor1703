@@ -6,8 +6,8 @@
 
 <!-- About me -->
 ### <strong>About me:
-### I'm a developer with 2+ years of experience in Flutter Mobile/Web. I work well in teams, am analytical and detail-oriented. I always seek the best way to carry out my projects, with the goal of achieving the best possible results.</p>
-### <strong>Languages:</strong> Portuguese and English.
+#### I'm a developer with 2+ years of experience in Flutter Mobile/Web. I work well in teams, am analytical and detail-oriented. I always seek the best way to carry out my projects, with the goal of achieving the best possible results.</p>
+#### <strong>Languages:</strong> Portuguese and English.
 
 <!-- Resume about languages and commits -->
 <div>
@@ -51,7 +51,7 @@
 ##
 
 <!-- Contact -->
-### <strong>Contact
+### <strong>Contact:
 <a href="https://www.linkedin.com/in/vitor-hugo-4b2a94206/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
