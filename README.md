@@ -6,7 +6,7 @@
 
 <!-- About me -->
 ### <strong>About me:
-#### I'm a developer with 2+ years of experience in Flutter Mobile/Web. I work well in teams, am analytical and detail-oriented. I always seek the best way to carry out my projects, with the goal of achieving the best possible results.</p>
+#### I'm a developer with 3+ years of experience in Flutter Mobile/Web. I work well in teams, am analytical and detail-oriented. I always seek the best way to carry out my projects, with the goal of achieving the best possible results.</p>
 #### <strong>Languages:</strong> Portuguese and English.
 
 <!-- Resume about languages and commits -->
