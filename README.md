@@ -1,5 +1,5 @@
 <!-- Apresentation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Heyy,+My+Name+is+Vitor+Hugo;I'm+20+years+old;I'm+a+Software+Engineering+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Heyy,+My+Name+is+Vitor+Hugo;I'm+21+years+old;I'm+a+Software+Engineering+student)](https://git.io/typing-svg)
 
 <!-- Divider -->
 ##
